@@ -9,7 +9,7 @@ This repository contains the GameMonetize.com SDK for WebGL Unity3D games. This 
 <p><a href="https://drive.google.com/file/d/1BrJ0MuNBWh7_hoNRIEXw9exgqpE1uQZh/">Download the plugin</a> and Import the .unitypackage into your game. </p>
 <p>Download here: <a href="https://drive.google.com/file/d/1BrJ0MuNBWh7_hoNRIEXw9exgqpE1uQZh/">https://drive.google.com/file/d/1BrJ0MuNBWh7_hoNRIEXw9exgqpE1uQZh/</a></p>
 
-<p><img src="https://gamemonetize.com/images/unity/unity_2.png"  width="800" alt=""></p>
+<p><img src="https://gamemonetize.com/images/unity3d/unity1.png"  width="800" alt=""></p>
 
 # STEP 2:
 Drag the prefab "GameMonetize" into your scene. 
@@ -19,7 +19,7 @@ Copy your GAME_ID in your GameMonetize developer's control panel (in the Game Ma
 
 # STEP 4:
 Open the prefab and replace the GAME_ID values with your own keys. 
-<p><img src="https://gamemonetize.com/images/unity/unity_1.png"  width="800" alt=""></p>
+<p><img src="https://gamemonetize.com/images/unity3d/unity2.png"  width="800" alt=""></p>
 
 # STEP 5:
 Use GameMonetize.Instance.ShowAd() to show an advertisement. 
