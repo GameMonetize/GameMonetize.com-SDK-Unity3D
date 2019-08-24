@@ -3,7 +3,7 @@
 
 
 # GameMonetize.com-SDK WebGL Unity3D
-This repository contains the GameMonetize.com SDK for WebGL Unity3D games. This allows you to display advertisements in the games published within the GameMonetize.com network. https://DistributeGames.com
+This repository contains the GameMonetize.com SDK for WebGL Unity3D games. This allows you to display advertisements in the games published within the GameMonetize.com network. https://GameMonetize.com
 
 # STEP 1:
 <p><a href="https://drive.google.com/file/d/1oo2tbYJiV3VmhNOfq3oNQtegmeHobbZx/">Download the plugin</a> and Import the .unitypackage into your game. </p>
